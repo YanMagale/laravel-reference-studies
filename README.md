@@ -20,3 +20,9 @@ Minhas referencias de estudos com o Laravel.
 ##Utilities
 
 [Configurar Laravel no Ubuntu 14.04](http://dev.antoinesolutions.com/ubuntu-14.04-trusty/install-and-configure-composer-on-ubuntu-14.04)
+
+
+##Task Runners
+
+[Taskphp](http://taskphp.github.io/)
+
